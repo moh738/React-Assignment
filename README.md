@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # React-Assignment
 A React assignment project demonstrating components, state management, and responsive UI.
 # React + TypeScript + Vite
@@ -99,4 +99,4 @@ export default defineConfig([
 ])
 
 ```
->>>>>>> d04092a (Save workspace: restore template and cleanup (TaskFlow removed))
+ (Save workspace: restore template and cleanup (TaskFlow removed))
